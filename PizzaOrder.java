@@ -4,6 +4,10 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
 
+@Author(
+        name = "Hilario Junior Nengare",
+        studentNo = 174682
+)
 public class PizzaOrder extends JFrame {
     private JComboBox<String> pizzaTypeComboBox;
     private JComboBox<String> sizeComboBox;
